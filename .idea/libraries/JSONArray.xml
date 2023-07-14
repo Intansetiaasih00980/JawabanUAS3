@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JSONArray">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../JSONArray.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
